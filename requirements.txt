@@ -1,5 +1,5 @@
 anytree
-
+cloudscraper
 asyncio
 beautifulsoup4
 bencoding
